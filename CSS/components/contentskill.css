@@ -1,0 +1,17 @@
+.contentskill{
+    display: flex;
+    align-items: center;
+}
+.contentskill .icon{
+    margin-right: 25px;
+    width: 90px;
+}
+.contentskill .right{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.contentskill .title{
+    margin-bottom: 10px;
+}

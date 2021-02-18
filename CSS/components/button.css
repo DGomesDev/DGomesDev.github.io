@@ -1,0 +1,21 @@
+.button{
+    text-shadow: 3px 3px 5px black;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    background-color: blueviolet;
+    box-shadow: 5px 5px 0px black;
+    width: 170px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    transition: linear 170ms;
+    text-align: center;
+    font-family: "Fira Code", sans-serif;
+}
+.button:hover{
+    transform: scale(1.08);
+    background-color: violet;
+}
