@@ -1,4 +1,4 @@
-.button{
+.button-repeat{
     text-shadow: 3px 3px 5px black;
     color: white;
     text-decoration: none;
@@ -15,7 +15,7 @@
     text-align: center;
     font-family: "Fira Code", sans-serif;
 }
-.button:hover{
+.button-repeat:hover{
     transform: scale(1.08);
     background-color: violet;
 }

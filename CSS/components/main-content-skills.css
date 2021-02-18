@@ -1,17 +1,17 @@
-.contentskill{
+.main-content-skills{
     display: flex;
     align-items: center;
 }
-.contentskill .icon{
+.main-content-skills .icon-skills{
     margin-right: 25px;
     width: 90px;
 }
-.contentskill .right{
+.main-content-skills .right-skills{
   display: flex;
   flex-direction: column;
   justify-content: space-around;
 }
 
-.contentskill .title{
+.main-content-skills .title-skills{
     margin-bottom: 10px;
 }

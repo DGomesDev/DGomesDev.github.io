@@ -1,4 +1,4 @@
-.box{
+.box-banner{
     display: inline-block;
     background-color:blueviolet;
     width: 627px;
@@ -6,6 +6,6 @@
     padding: 20px 0;
     box-shadow: 5px 5px 0 black;
 }
-.box .one{
-    margin-bottom: 5px;
+.box-banner .first-title-img{
+    margin-bottom: 10px;
 }

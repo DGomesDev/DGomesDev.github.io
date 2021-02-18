@@ -1,4 +1,4 @@
-.wrapper-skill{
+.wrapper-skills{
     display: flex;
     flex-direction: column;
     max-width: 960px;
@@ -8,13 +8,13 @@
 
 }
 
-.wrapper-skill .contentskill{
+.wrapper-skills .main-content-skills{
     width: 430px;
     margin-bottom: 40px;
 }
 
 
-.wrapper-skill .progress-bar{
+.wrapper-skills .progress-bar-skills{
     width: 360px;
 
 }

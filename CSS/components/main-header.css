@@ -1,11 +1,11 @@
-.blacktitle{
+.black-title{
     background-color: #000;
     text-align: center;
 }
-.header{
+.main-header{
     border-bottom: 5px solid black;
 }
-.header .secondheader{
+.main-header .second-part-header{
         font-family: "Fira Code", sans-serif;
         font-weight: 500;
         display: block;
