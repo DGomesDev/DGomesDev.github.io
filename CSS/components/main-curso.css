@@ -1,10 +1,12 @@
 .main-curso{
     display: flex;
     justify-content: center;
-    
-    
+        
 }
 .main-curso .images-curso{
     display: flex;
     margin: 100px;
+}
+.allign-curso{
+    margin-top: 20px;
 }

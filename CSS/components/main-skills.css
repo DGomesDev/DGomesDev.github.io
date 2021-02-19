@@ -1,9 +1,8 @@
 .main-skills{
     text-align: center;
     padding-top: 50px;
-    padding-bottom: 100px;
+    padding-bottom: 190px;
     border-bottom: 5px solid blueviolet;
-    
 }
 .main-skills .title-skills{
     text-align: start;
@@ -12,8 +11,10 @@
     margin-bottom: 30px;
 }
 .main-skills.-second{
+    box-sizing: border-box;
     background-color: black;
     border-bottom: 5px solid white;
+    height: 970px;
 }
 .main-skills.-third{
     background-color: blueviolet;
